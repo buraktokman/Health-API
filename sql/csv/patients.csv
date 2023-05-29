@@ -1,0 +1,4 @@
+first_name,last_name,email,phone_number,date_of_birth
+Alice,Johnson,alice.johnson@example.com,555-1234,1990-05-20
+Bob,Smith,bob.smith@example.com,555-5678,1985-09-12
+Charlie,Wong,charlie.wong@example.com,555-9012,1977-12-01
