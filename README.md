@@ -114,9 +114,9 @@ The following endpoints are available:
 
 #### Request
 
-   POST /doctors HTTP/1.1
-   Content-Type: application/vnd.api+json
-   Accept: application/vnd.api+json
+    POST /doctors HTTP/1.1
+    Content-Type: application/vnd.api+json
+    Accept: application/vnd.api+json
 
     {
       "first_name": "John",
