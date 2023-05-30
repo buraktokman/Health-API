@@ -108,6 +108,7 @@ The following endpoints are available:
   </markdown>
 </details>
 
+
 <details>
   <summary>Add doctor</summary>
   <markdown>
@@ -127,16 +128,17 @@ The following endpoints are available:
 
 #### Response
 
-   HTTP/1.1 200 OK
-   Content-Type: application/vnd.api+json
+    HTTP/1.1 200 OK
+    Content-Type: application/vnd.api+json
     
-   {
+    {
       "doctor_id": 18,
       "message": "Doctor added successfully."
-   }
+    }
 
   </markdown>
 </details>
+
 
 <details>
   <summary>Delete doctor</summary>
